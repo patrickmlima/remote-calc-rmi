@@ -119,7 +119,7 @@ public class ProcessExpression {
         } catch (Exception e) {
             result = "Error: There's an error in the expression\nTry again inserting a correct expression" +
             "\nUse + to addition, - to subtraction, * to multiplication, / to division and ^ to exponentiation." +
-            "\nYou can also use brackets ()\n";
+            "\nYou can also use brackets ().";
         }
 
         instance.str = null;
