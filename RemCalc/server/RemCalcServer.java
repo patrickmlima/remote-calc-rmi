@@ -1,7 +1,5 @@
-package RemCalc.server;
-
 import java.rmi.*;
-import RemCalc.server.RemCalcImpl;
+
 public class RemCalcServer {
 	public static void main(String args[]) {
 		// sets the security manager

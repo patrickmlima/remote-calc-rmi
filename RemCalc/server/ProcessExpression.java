@@ -1,4 +1,3 @@
-package RemCalc.server;
 /**
 * Process a mathematical expression treating addition,
 * subtraction, multiplication, division and exponentiation.
